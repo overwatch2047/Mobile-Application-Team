@@ -1,4 +1,4 @@
-# Mobile-Application-Team
+# Mobile Application Team
 
 ## JavaScript 
 
