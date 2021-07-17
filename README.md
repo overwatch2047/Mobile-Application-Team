@@ -1,6 +1,6 @@
 # Mobile-Application-Team
 
-## Java Script 
+## JavaScript 
 
 This section is to share some references which are the most needed fundamentals for React development roles. JavaScript still remains to be the fundamental building block and prereuisite to start working on React projects.  
   
